@@ -3,8 +3,8 @@
 
 ## Full Stack Application with Database
 
-#Frontend
+# Frontend
 JavaScript, EJS, HTML, CSS
 
-#Backend
+# Backend
 Nodejs, Express, Mongoose, MongoDB
