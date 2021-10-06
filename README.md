@@ -10,4 +10,4 @@ JavaScript, EJS, HTML, CSS
 Nodejs, Express, Mongoose, MongoDB
 
 
-![]("images/website.gif")
+![](images/website.gif)
